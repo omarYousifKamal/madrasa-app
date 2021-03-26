@@ -1,5 +1,3 @@
-import 'dart:io';
-
 // ignore: unused_import
 import 'package:c2less9schoolapp/UI_Screen/AboutAppScr.dart';
 import 'package:c2less9schoolapp/UI_Screen/vars.dart';
@@ -257,4 +255,4 @@ class _HomePageState extends State<HomePage> {
 //                           ),
 //                         ),
 //                       ),
-//                     ),
+//                     ),omarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr

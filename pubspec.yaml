@@ -42,6 +42,8 @@ flutter:
   assets:
     - images/close.png
     - images/arrow.png
+    - images/university.png
+    - images/kulya.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
